@@ -1,1 +1,1 @@
-# codigo-aws-sysops-administrator-associate
+# codigo-aws-cloudops-engineer-associate
